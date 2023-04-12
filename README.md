@@ -4,10 +4,15 @@ This Python script uses Selenium and AWS to scrape the Charities Bureau website 
 
 **Requirements**
 Python 3,
+
 AWS CLI,
+
 Selenium,
+
 Boto3,
+
 Pandas,
+
 ChromeDriver
 
 **Installation**
