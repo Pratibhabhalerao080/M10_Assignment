@@ -24,7 +24,7 @@ The resulting data will be stored in a CSV file in your specified S3 bucket.
 **License**
 This project is licensed under the MIT License.
 
-**Acknowledgements
+**Acknowledgements**
 
 This script was developed by Pratibha Bhalerao, with support from the Yeshiva University.
 
