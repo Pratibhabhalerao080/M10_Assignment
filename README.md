@@ -3,11 +3,11 @@
 This Python script uses Selenium and AWS to scrape the Charities Bureau website and export the results to a CSV file in an S3 bucket.
 
 **Requirements**
-Python 3
-AWS CLI
-Selenium
-Boto3
-Pandas
+Python 3,
+AWS CLI,
+Selenium,
+Boto3,
+Pandas,
 ChromeDriver
 
 **Installation**
